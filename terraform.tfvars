@@ -1,0 +1,5 @@
+region = "us-east-1"
+domain = "sarahconnor.tech"
+subdomain = "www.sarahconnor.tech"
+cdnSubDomain = "cdn.sarahconnor.tech"
+cf_hosted_zone_id = "Z2FDTNDATAQYW2"
